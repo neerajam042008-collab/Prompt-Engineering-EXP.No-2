@@ -75,10 +75,6 @@ Why this fits: In linguistics, sentences are categorized by their purpose or moo
 
 CHATGPT Step-by-step solution:
 
-Rahul’s age = 10 years.
-Anita is 5 years older than Rahul.
-So we add 5 to Rahul’s age. Calculation: 10 + 5 = 15 ✅ Final Answer: Anita is 15 years old.
-GEMINI To find out how old Anita is, we can follow these simple steps:
 
 Identify Rahul's current age: From the information given, we know Rahul is 10 years old.
 Identify the age difference: The problem states that Anita is 5 years older than Rahul.
