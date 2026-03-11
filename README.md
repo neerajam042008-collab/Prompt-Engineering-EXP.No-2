@@ -10,16 +10,16 @@ You are part of a content curation team for an educational platform that deliver
 
 Your goal is to determine which combination of prompting technique + platform provides the best summary in terms of:
 
-Accuracy
+1.Accuracy
 
-Coherence
+2.Coherence
 
-Simplicity
+3.Simplicity
 
-Speed
+4.Speed
 
-User experience
+5.User experience
 
-OUTPUT
+OUTPUT:
 
-RESULT
+RESULT:
